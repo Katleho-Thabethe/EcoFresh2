@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EcoFresh</string>
+
+    <string name="welcome">Welcome to EcoFresh!</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="scan_product">SCAN PRODUCT</string>
+    <string name="my_products">MY PRODUCTS</string>
+    <string name="logout">LOGOUT</string>
+
+    <string name="summary_expired">Expired: %d</string>
+    <string name="summary_expiring_soon">Expiring Soon: %d</string>
+    <string name="summary_fresh">Fresh: %d</string>
+
+    <string name="expired_initial">Expired: 0</string>
+    <string name="expiring_soon_initial">Expiring Soon: 0</string>
+    <string name="fresh_initial">Fresh: 0</string>
+
+    <string name="empty_products">No products saved yet.</string>
+    <string name="product_summary">Product: %1$s\nCategory: %2$s\nBarcode: %3$s\nExpiry Date: %4$s\nStatus: %5$s</string>
+
+    <string name="product_details_title">PRODUCT DETAILS</string>
+    <string name="barcode_label">Barcode</string>
+    <string name="barcode_placeholder">Barcode will appear here</string>
+    <string name="product_name_hint">Product Name</string>
+    <string name="category_hint">Category</string>
+    <string name="expiry_date_hint">Expiry Date (DD/MM/YYYY)</string>
+    <string name="save_product">SAVE PRODUCT</string>
+</resources>
